@@ -1,1 +1,1 @@
-newton-project-isro center
+newton-project-isro centres
